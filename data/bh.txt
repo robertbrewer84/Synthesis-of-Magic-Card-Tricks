@@ -1,0 +1,48 @@
+Time to find one solution:
+0.001
+0.048
+0.001
+[0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.002, 0.001, 0.002]
+[0.001, 0.001, 0.001, 0.001, 0.001, 0.001, 0.003, 0.002, 0.001, 0.002]
+Time to find meaningful solution:
+1.338
+188.954
+37.124
+[239.11, 6.646, 0.648, 11.868, 10.193, 34.398, 104.147, 0.549, 5.629, 8.25]
+[5.662, 4.816, 3.37, 16.859, 7.493, 7.509, 3.72, 0.675, 30.154, 10.343]
+Target: [<function toptobottom at 0x7f3e2e1d4a60>, <function turntop at 0x7f3e2e1d4940>, <function cut at 0x7f3e2e1d4b80>, <function turntop at 0x7f3e2e1d4940>, <function toptobottom at 0x7f3e2e1d4a60>, <function turntop2 at 0x7f3e2e1d49d0>, <function toptobottom at 0x7f3e2e1d4a60>, <function turntop at 0x7f3e2e1d4940>, <function toptobottom at 0x7f3e2e1d4a60>]
+48.631
+TIMEOUT
+96.079
+[272.819, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 230.574, 'TIMEOUT', 'TIMEOUT']
+['TIMEOUT', 75.803, 65.729, 198.603, 0.787, 'TIMEOUT', 125.823, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT']
+Target: [<function turntop2 at 0x7f3e2e1d49d0>, <function turntop at 0x7f3e2e1d4940>, <function cut at 0x7f3e2e1d4b80>, <function turntop at 0x7f3e2e1d4940>, <function top2tobottom at 0x7f3e2e1d4af0>, <function turntop at 0x7f3e2e1d4940>, <function cut at 0x7f3e2e1d4b80>]
+4.492
+TIMEOUT
+3.846
+[189.675, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 275.035, 173.245, 'TIMEOUT', 30.659, 27.681, 304.486]
+[919.391, 15.832, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 114.014, 20.751, 2.816, 94.162, 11.925]
+Target: [<function turntop2 at 0x7f3e2e1d49d0>, <function top2tobottom at 0x7f3e2e1d4af0>, <function turntop at 0x7f3e2e1d4940>, <function cut at 0x7f3e2e1d4b80>]
+0.357
+TIMEOUT
+0.297
+[0.501, 0.119, 1.892, 'TIMEOUT', 3.948, 0.095, 0.14, 0.222, 'TIMEOUT', 1.392]
+[1.001, 0.175, 1.96, 3.845, 0.441, 0.14, 1.498, 0.628, 0.082, 4.198]
+Target: [<function toptobottom at 0x7f3e2e1d4a60>, <function turntop at 0x7f3e2e1d4940>, <function cut at 0x7f3e2e1d4b80>, <function turntop2 at 0x7f3e2e1d49d0>, <function cut at 0x7f3e2e1d4b80>, <function turntop at 0x7f3e2e1d4940>, <function toptobottom at 0x7f3e2e1d4a60>, <function turntop at 0x7f3e2e1d4940>, <function turntop2 at 0x7f3e2e1d49d0>]
+89.318
+TIMEOUT
+435.756
+[459.992, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT']
+['TIMEOUT', 'TIMEOUT', 'TIMEOUT', 793.882, 834.527, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT']
+Target: [<function toptobottom at 0x7f3e2e1d4a60>, <function turntop at 0x7f3e2e1d4940>, <function cut at 0x7f3e2e1d4b80>, <function turntop2 at 0x7f3e2e1d49d0>, <function cut at 0x7f3e2e1d4b80>, <function turntop at 0x7f3e2e1d4940>, <function toptobottom at 0x7f3e2e1d4a60>, <function turntop at 0x7f3e2e1d4940>, <function turntop2 at 0x7f3e2e1d49d0>]
+58.506
+TIMEOUT
+478.302
+[663.232, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT']
+['TIMEOUT', 'TIMEOUT', 'TIMEOUT', 865.181, 882.657, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 'TIMEOUT']
+Target: [<function toptobottom at 0x7f3e2e1d4a60>, <function top2tobottom at 0x7f3e2e1d4af0>, <function turntop at 0x7f3e2e1d4940>, <function cut at 0x7f3e2e1d4b80>]
+1.076
+TIMEOUT
+0.29
+[0.118, 1.701, 0.39, 0.168, 0.34, 0.533, 0.667, 0.098, 3.928, 'TIMEOUT']
+[0.44, 'TIMEOUT', 6.956, 'TIMEOUT', 'TIMEOUT', 'TIMEOUT', 2.625, 16.728, 1.18, 8.683]
